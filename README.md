@@ -143,7 +143,6 @@ _Especificações:_
 Implementação do protocolo I2C no modo SLAVE.
 
 _Especificações:_
-- CÓPIAS integral ou parcial de algum trabalho anterior ou atual serão sumariamente penalizados;
 - O protocolo I2C deve ser implementado no PIC (16F628A) no modo SLAVE;
 - O PIC deve receber um byte de endereço e sinalizar sua identificação através de um LED;
 - Quando o endereço for identificado como correto, um ACK deve ser enviado e o sinal CLK deve forçado a LOW por 100 ms;
